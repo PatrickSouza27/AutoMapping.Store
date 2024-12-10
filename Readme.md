@@ -16,3 +16,8 @@ API Nuget Package (IMapper mapper)
         services.AddAutoMapper(typeof(DomainToViewModelMappingProfile), typeof(ViewModelToDomainMappingProfile));
     }
 ```
+
+Project
+```Bash
+> dotnet add package AutoMapper
+```
