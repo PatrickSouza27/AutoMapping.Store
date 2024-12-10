@@ -2,7 +2,7 @@
 
 https://doc.mapeditor.org/en/stable/manual/automapping/
 
-API Nuget Package (IMapper mapper)
+#### API Nuget Package (IMapper mapper)
 
 ```Bash
 > dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection
@@ -17,7 +17,7 @@ API Nuget Package (IMapper mapper)
     }
 ```
 
-Project
+#### Project
 ```Bash
 > dotnet add package AutoMapper
 ```
